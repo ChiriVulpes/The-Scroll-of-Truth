@@ -7,7 +7,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:desert": "2023-09-15 10:18:13 +1200"
+      "minecraft:desert": "2023-09-15 10:18:13 +1200",
+      "minecraft:jungle": "2023-09-19 12:23:48 +1200"
     },
     "done": false
   },
