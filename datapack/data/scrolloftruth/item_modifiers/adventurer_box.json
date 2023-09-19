@@ -1,0 +1,4 @@
+{
+	"function": "minecraft:set_nbt",
+	"tag": "{\"CanPlaceOn\":[\"minecraft:chiseled_deepslate\"],\"display\":{\"Lore\":[\"[{\\\"text\\\":\\\"The runes you have collected;\\\",\\\"italic\\\":true,\\\"color\\\":\\\"blue\\\"}]\",\"[{\\\"text\\\":\\\"tools with which to take\\\",\\\"italic\\\":true,\\\"color\\\":\\\"blue\\\"}]\",\"[{\\\"text\\\":\\\"you to the truth.\\\",\\\"italic\\\":true,\\\"color\\\":\\\"blue\\\"}]\"]}}"
+}
